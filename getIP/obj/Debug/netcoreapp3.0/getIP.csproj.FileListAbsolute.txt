@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\getIP.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getIP\obj\Debug\netcoreapp3.0\getIP.pdb

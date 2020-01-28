@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\palindrome.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\palindrome\obj\Debug\netcoreapp3.0\palindrome.pdb

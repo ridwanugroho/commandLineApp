@@ -1,0 +1,16 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\getPublicIP.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\getPublicIP\obj\Debug\netcoreapp3.0\getPublicIP.pdb

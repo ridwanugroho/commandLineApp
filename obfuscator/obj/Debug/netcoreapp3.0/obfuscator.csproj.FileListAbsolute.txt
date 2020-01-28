@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\obfuscator.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\obfuscator\obj\Debug\netcoreapp3.0\obfuscator.pdb

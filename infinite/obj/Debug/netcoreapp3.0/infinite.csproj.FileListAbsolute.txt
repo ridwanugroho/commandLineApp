@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\infinite.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\infinite\obj\Debug\netcoreapp3.0\infinite.pdb

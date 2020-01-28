@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\arit.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\arit\obj\Debug\netcoreapp3.0\arit.pdb

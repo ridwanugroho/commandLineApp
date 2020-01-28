@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.exe
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.deps.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.runtimeconfig.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.runtimeconfig.dev.json
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\string_transform.pdb
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.AssemblyInfo.cs
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.csproj.CopyComplete
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.dll
+D:\Prog\CSharp\training\12_senin_27_jan_20\console_test\string_transform\obj\Debug\netcoreapp3.0\string_transform.pdb

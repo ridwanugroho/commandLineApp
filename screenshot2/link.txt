@@ -1,0 +1,3 @@
+https://google.co.id
+https://en.wikipedia.org/wiki/JavaScript
+https://en.wikipedia.org/wiki/ECMAScript
